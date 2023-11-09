@@ -63,4 +63,4 @@ jobs:
           app-name: 'ProveedoresPintu'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_859F6757C1C44CCD9260B21F32368F0F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3EB4089C72B94ACE94A0778EA1D622D6 }}
